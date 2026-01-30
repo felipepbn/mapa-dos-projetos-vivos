@@ -1,2 +1,3 @@
-# mapa-dos-projetos-vivos
-Ideias, projetos e visões em construção.
+# 🌌 Mapa dos Projetos Vivos
+
+Este repositório é um **mapa em construção**. Aqui registro ideias, projetos, conceitos, arquitetura de mentes criativas e experimentos que nascem da vontade de criar algo **novo, útil e humano**  mesmo quando ainda não estão prontos. Não é um portfólio fechado. Não é um produto final. É um **território vivo**. Sabe Por que isso existe? Porque grandes ideias não nascem completas. Elas precisam de espaço para: errar, mudar, amadurecer, se conectar. Este espaço existe para **acompanhar processos**, não apenas resultados. O que realmente vai  aparecer aqui? projetos educacionais, projetos com inteligencia artificial com audiovisual, estudos cientificos e livros raros, ideias de impacto social, conceitos criativos, narrativas experimentais, propostas ainda sem nome. Se algo está aqui, é porque **merece existir**. ----- Estado do projeto ---- Em desenvolvimento constante, Aberto à leitura, Aberto a conexões futuras. Este mapa não mostra tudo.**Mostra o começo.*
